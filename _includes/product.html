@@ -1,0 +1,20 @@
+<ul id="product">
+<li>
+<img src="{{ page.img }}" alt="{{ page.description }}"/>
+</li>
+<li>
+<ul>
+<li><strong>Marimi:</strong> {{ page.sizes }}</li>
+<li><strong>Culori:</strong> {{ page.colors }}</li>
+<li><strong>Pret:</strong> {{ page.price }}</li>
+{% if page.comment %}
+<br>
+<li><em>{{ page.comment }}</em></li>
+{% endif %}
+<br>
+<li>
+<a href="/contact">Detalii comenzi</a>
+</li>
+</ul>
+</li>
+</ul>

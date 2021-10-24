@@ -1,0 +1,28 @@
+<!doctype html>
+<html lang="ro">
+{% include head.html %}
+<body>
+<div class="wrap">
+<a href="/"><img src="/assets/img/cufarul-lui-christianne.png" title="Cufarul lui Christianne" alt="logo"/></a>
+<p><em>~{{ site.description }}~</em></p>
+{% include nav.html %}
+<article>
+{% include products.html %}
+</article>
+</div>
+</body>
+{% if page.url == "/" %}
+<script>
+  if (window.netlifyIdentity) {
+    window.netlifyIdentity.on("init", user => {
+      if (!user) {
+        window.netlifyIdentity.on("login", () => {
+          document.location.href = "/admin/";
+        });
+      }
+    });
+  }
+</script>
+{% endif %}
+</html>
+	

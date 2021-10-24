@@ -1,0 +1,15 @@
+<!doctype html>
+<html lang="ro">
+{% include head.html %}
+<body>
+<div class="wrap">
+<a href="/"><img src="/assets/img/cufarul-lui-christianne.png" title="Cufarul lui Christianne" alt="logo"/></a>
+<h2>{{ page.title }}</h2>
+<p><em>Postat: {{ page.date | date: "%d-%m-%Y" }}</em></p>
+<article>
+{% include product.html %}
+</article>
+</div>
+</body>
+</html>
+	
