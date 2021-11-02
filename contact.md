@@ -6,7 +6,7 @@ description: "Detalii comenzi Cufarul lui Christianne."
 
 Va rog cititi cu atentie pentru evitarea discutiilor neplacute ulterioare.
 
-Comenzile se fac prin mesaj privat sau la telefon **0741.701.582**.
+Comenzile se fac prin mesaj privat [Whatsapp](https://wa.me/message/2J35RC3XC3JUP1) sau la telefon **0741.701.582**.
 
 Comenzile se trimit prin Posta Romana, contravaloarea transportului fiind de **8 lei**, dar aceasta difera in functie de greutatea si valoarea/rambursul coletului.
 
