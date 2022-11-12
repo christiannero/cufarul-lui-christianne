@@ -1,0 +1,43 @@
+backend:
+  name: git-gateway
+  branch: master
+  repo: https://gitlab.com/christiannero/cufarul-lui-christianne
+  
+media_folder: "uploads"
+
+# Displays link to main site in backend
+display_url: https://cufarul-lui-christianne.ro
+
+# Logo
+logo_url: https://cufarul-lui-christianne.ro/assets/img/cufarul-lui-christianne.png
+     
+collections:
+  - name: "pages"
+    label: "Contact"
+    delete: false
+    description: >
+      Editeaza pagina de contact.
+    files:
+      - label: "Contact"
+        name: "contact"
+        file: "contact.md"
+        fields:
+          - { label: 'Layout', name: 'layout', widget: 'hidden', default: "page" }
+          - { label: 'Titlu', name: 'title', widget: 'hidden', default: "Contact" }
+          - {label: "Content", name: "body", widget: "markdown", hint: "Editeaza continut."}
+  - name: "blog" 
+    label: "Produse" 
+    folder: "_posts" 
+    create: true 
+    slug: "{{year}}-{{month}}-{{day}}-{{slug}}" 
+    fields: 
+      - {label: "Layout", name: "layout", widget: "hidden", default: "post"}
+      - {label: "Titlu", name: "title", widget: "string"}
+      - {label: "Descriere", name: "description", widget: "string"}
+      - {label: "Imagine produs", name: "img", widget: "image"}
+      - {label: "Marimi", name: "sizes", widget: "string"}
+      - {label: "Culori", name: "colors", widget: "string"}
+      - {label: "Pret", name: "price", widget: "string"}
+      - {label: "Comentarii (optional)", name: "comment", widget: "string", default: ""}
+      - {label: "Data de azi", name: "date", widget: "datetime"}
+      - {label: "Body", name: "body", widget: "hidden", default: ""}
