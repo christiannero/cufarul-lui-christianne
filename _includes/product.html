@@ -1,20 +1,22 @@
-<ul id="product">
+<ul id="{% if page.img2 !=null %}product{% endif %}">
 <li>
-<img src="{{ page.img }}" alt="{{ page.description }}"/>
+<a href="{{ page.img }}"><img src="{{ page.img }}" class="border" alt="{{ page.description }}"/></a>
 </li>
+{% if page.img2 != null %}
 <li>
-<ul>
+<a href="{{ page.img2 }}"><img src="{{ page.img2 }}" class="border" alt="{{ page.description }}"/></a>
+</li>
+{% endif %}
+</ul>
+<ul id="meta">
 <li><strong>Marimi:</strong> {{ page.sizes }}</li>
 <li><strong>Culori:</strong> {{ page.colors }}</li>
 <li><strong>Pret:</strong> {{ page.price }}</li>
 {% if page.comment %}
-<br>
-<li><em>{{ page.comment }}</em></li>
+<li><strong>Oferta:</strong><em> {{ page.comment }}</em></li>
 {% endif %}
 <br>
 <li>
 <a href="/contact">Detalii comenzi</a>
-</li>
-</ul>
 </li>
 </ul>
