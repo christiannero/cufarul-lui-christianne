@@ -1,10 +1,10 @@
 ---
 layout: post
-title: "Brăţări negre, simple, împletite"
-description: "Brăţări negre, simple, împletite."
-img: "/assets/img/bratari-negre-simple-impletite-1.jpg"
-img2: "/assets/img/bratari-negre-simple-impletite-2.jpg"
-colors: "negru"
-price: "5 RON /buc"
+title: "Brățară inimioară"
+description: "Brățară inimioară."
+img: "/assets/img/bratara-inimioara-1.jpg"
+img2: "/assets/img/bratara-inimioara-2.jpg"
+colors: "roșu"
+price: "15 RON /buc"
 vertical: true
 ---
