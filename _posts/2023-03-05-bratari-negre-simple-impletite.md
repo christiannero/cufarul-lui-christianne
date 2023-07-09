@@ -7,3 +7,4 @@ img2: "/assets/img/bratari-negre-simple-impletite-2.jpg"
 colors: "negru"
 price: "5 RON /buc"
 vertical: true
+---
