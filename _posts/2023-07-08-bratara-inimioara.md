@@ -7,3 +7,4 @@ img2: "/assets/img/bratara-inimioara-2.jpg"
 colors: "roșu"
 price: "15 RON /buc"
 vertical: true
+---
