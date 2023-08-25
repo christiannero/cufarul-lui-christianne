@@ -5,6 +5,6 @@ description: "Brățări subțiri cu nume."
 img: "/assets/img/bratari-subtiri-cu-nume-1.jpg"
 img2: "/assets/img/bratari-subtiri-cu-nume-2.jpg"
 colors: "disponibile doar culorile din poze"
-price: "12 RON /buc"
+price: "12 RON /buc marimi copii; 15 RON /buc marimi adulti"
 vertical: true
 ---
