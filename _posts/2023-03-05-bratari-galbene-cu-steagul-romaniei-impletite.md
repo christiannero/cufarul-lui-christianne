@@ -1,10 +1,10 @@
 ---
 layout: post
-title: "Brăţări galbene cu steagul României, împletite"
+title: "Brăţări galbene cu steagul României, împletite (momentan indisponibil)"
 description: "Brăţări galbene cu steagul României, împletite."
 img: "/assets/img/bratari-galbene-cu-steagul-romaniei-impletite-1.jpg"
 img2: "/assets/img/bratari-galbene-cu-steagul-romaniei-impletite-2.jpg"
 colors: "galben"
-price: "Stoc indisponibil (7 RON /buc)"
+price: "7 RON /buc"
 vertical: true
 ---
