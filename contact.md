@@ -8,7 +8,7 @@ Va rog cititi cu atentie pentru evitarea discutiilor neplacute ulterioare.
 
 Comenzile se fac prin mesaj privat [Whatsapp](https://wa.me/message/2J35RC3XC3JUP1) sau la telefon **0741.701.582**.
 
-Comenzile se trimit prin Posta Romana, contravaloarea transportului fiind de **15 lei**, dar aceasta difera in functie de greutatea si valoarea/rambursul coletului.
+Comenzile se trimit prin Curier, contravaloarea transportului fiind de **30 lei**, dar aceasta difera in functie de greutatea si valoarea/rambursul coletului.
 
 **Comanda minimă este de 60 lei.**
 
