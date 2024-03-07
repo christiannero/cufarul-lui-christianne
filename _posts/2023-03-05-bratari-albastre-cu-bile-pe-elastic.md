@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Brăţări albastre cu bile, pe elastic"
+title: "Brăţări albastre cu bile, pe elastic (momentan indisponibil)"
 description: "Brăţări albastre cu bile, pe elastic."
 img: "/assets/img/bratari-albastre-cu-bile-pe-elastic-1.jpg"
 img2: "/assets/img/bratari-albastre-cu-bile-pe-elastic-2.jpg"
