@@ -1,10 +1,9 @@
 ---
 layout: post
-title: "Reparații brățări"
-description: "Reparații brățări"
+title: "Reparații brățări cod 4076"
+description: "Reparații brățări cod 4076"
 img: "/assets/img/Reparatii-bratari.jpg"
 colors: "diverse"
-price: "Copii 10 RON
-        Adulti 15 RON"
+price: "10 RON"
 vertical: true
 ---

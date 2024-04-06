@@ -1,10 +1,10 @@
 ---
 layout: post
-title: "Brăţări subțiri, cu număr de telefon, diverse culori - la cerere, împletite"
-description: "Brăţări subțiri, cu număr de telefon, diverse culori - la cerere, împletite."
+title: "Brăţări număr de telefon - la cerere cod 4079"
+description: "Brăţări număr de telefon - la cerere cod 4079"
 img: "/assets/img/bratari-subtiri-cu-numar-de-telefon-impletite-1.jpg"
 img2: "/assets/img/bratari-subtiri-cu-numar-de-telefon-impletite-2.jpg"
 colors: "diverse"
-price: "12.00 RON /buc"
+price: "15 RON /buc"
 vertical: true
 ---
