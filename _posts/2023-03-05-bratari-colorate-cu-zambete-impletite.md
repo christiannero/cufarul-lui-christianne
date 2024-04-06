@@ -1,9 +1,9 @@
 ---
 layout: post
-title: "Brăţări colorate, subțiri, cu zâmbete, împletite"
-description: "Brăţări colorate, subțiri, cu zâmbete, împletite"
+title: "Brăţări zâmbete cod 4101"
+description: "Brăţări zâmbete cod 4101"
 img: "/assets/img/bratari-colorate-cu-zambet-impletite.jpg"
 colors: "diverse"
-price: "12.00 RON / buc"
+price: "15.00 RON / buc"
 vertical: false
 ---
