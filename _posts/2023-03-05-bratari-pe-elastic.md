@@ -1,10 +1,10 @@
 ---
 layout: post
-title: "Brăţări cu iconiţă sau cruciuliţă, pe elastic"
-description: "Brăţări cu iconiţă sau cruciuliţă, pe elastic"
+title: "Brăţări pe elastic cod 4083"
+description: "Brăţări pe elastic cod 4083"
 img: "/assets/img/bratari-pe-elastic-1.jpg"
 img2: "/assets/img/bratari-pe-elastic-2.jpg"
 colors: "diverse"
-price: "4.00 RON / buc"
+price: "7 RON / buc"
 vertical: false
 ---

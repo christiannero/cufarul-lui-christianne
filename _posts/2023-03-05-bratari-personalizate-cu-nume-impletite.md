@@ -1,12 +1,10 @@
 ---
 layout: post
-title: "Brățări personalizate, cu nume, împletite"
-description: "Brățări personalizate, cu nume, împletite."
+title: "Brățări nume cod 4082"
+description: "Brățări nume cod 4082"
 img: "/assets/img/bratari-personalizate-cu-nume-impletite-1.jpg"
 img2: "/assets/img/bratari-personalizate-cu-nume-impletite-2.jpg"
 colors: "diverse"
-price: "pentru 2-4 litere - 10 RON/buc; 
-        pentru 5-7 litere - 11 RON/buc;
-        pentru 8 sau mai multe litere - 12 RON/buc"
+price: "15 RON/buc"
 vertical: true
 ---
