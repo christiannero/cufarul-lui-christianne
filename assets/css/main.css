@@ -1,6 +1,6 @@
 body {
   background-color: white;
-  color: #37c8ab;
+  color: #242525;
   text-align: center;
   font-size: 18px;
   padding: 0;
@@ -28,11 +28,11 @@ h1 {
 h2 {
 	font-size: 1.4em;
 	line-height: 1.5em;
-	color: #a1774d;
+	color: #333333cb;
 }
 a {
 	text-decoration: none;
-	color: #a1774d;
+	color: ##333333cb;
 }
 ul {
 	list-style: none;
@@ -56,7 +56,7 @@ img {
 	}
 }
 .border {
-	border: 2px solid #a1774d;
+	border: 2px solid #333333cb;
 }
 #meta {
 	margin-top: 50px;
@@ -65,7 +65,7 @@ img {
 	grid-gap: 25px;
 }
 #products img {
-  border: 2px solid #a1774d;
+  border: 2px solid #333333cb;
 }
 #products img:hover {
   filter: brightness(1.1);
