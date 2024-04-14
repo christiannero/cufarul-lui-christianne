@@ -1,6 +1,6 @@
 body {
-  background-color: #5d5e5c;
-  color: #5d5e5c;
+  background-color: #56b31;
+  color: #37c8ab;
   text-align: center;
   font-size: 18px;
   padding: 0;
@@ -28,11 +28,11 @@ h1 {
 h2 {
 	font-size: 1.4em;
 	line-height: 1.5em;
-	color: #a1774d;
+	color: #5d5e5c;
 }
 a {
 	text-decoration: none;
-	color: #a1774d;
+	color: #5d5e5c;
 }
 ul {
 	list-style: none;
@@ -65,7 +65,7 @@ img {
 	grid-gap: 25px;
 }
 #products img {
-  border: 2px solid #a1774d;
+  border: 2px solid #5d5e5c;
 }
 #products img:hover {
   filter: brightness(1.1);
