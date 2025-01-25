@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "Brățări colorate 4080"
-description: "Brățări colorate cod 4080"
+title: "Brățări colorate 4122"
+description: "Brățări colorate cod 4122"
 img: "/assets/img/Brățări-colorate-1.jpg"
 img2: "/assets/img/Brățări-colorate-2.jpg"
 colors: "diverse"

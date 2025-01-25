@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "Brățări cu cruciuliță metalică aurie cod 4084"
-description: "Brățări cu cruciuliță metalică aurie cod 4084"
+title: "Brățări cu cruciuliță metalică aurie cod 4126"
+description: "Brățări cu cruciuliță metalică aurie cod 4126"
 img: "/assets/img/Brățări-cu-cruciuliță-metalică-aurie-1.jpg"
 img2: "/assets/img/Brățări-cu-cruciuliță-metalică-aurie-1.jpg"
 colors: "diverse"

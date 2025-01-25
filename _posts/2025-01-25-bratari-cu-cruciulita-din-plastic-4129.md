@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "Brățări cu cruciuliță din plastic cod 4104"
-description: "Brățări cu cruciuliță din plastic cod 4104"
+title: "Brățări cu cruciuliță din plastic cod 4129"
+description: "Brățări cu cruciuliță din plastic cod 4129"
 img: "/assets/img/Brățări-cu-cruciuliță-din-plasticcc-1.jpg"
 img2: "/assets/img/Brățări-cu-cruciuliță-din-plasticcc-2.jpg"
 colors: "diverse"
