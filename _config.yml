@@ -1,5 +1,5 @@
 title: "Cufarul lui Christianne"
-description: "~Brățări handmade la comanda~"
+description: "~Brățări handmade la comandă~"
 url: "https://cufarul-lui-christianne.ro"
 include: ["_headers", "_redirects"]
 exclude: ["_drafts", ".jekyll-cache", "Gemfile.lock"]
